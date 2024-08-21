@@ -1,0 +1,13 @@
+<div class="container">
+	<label>
+	<div class="heart">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg"></img>
+	</div>
+	<input id="messageState" type="checkbox" style="display:none"/>
+	</label>
+	<div class="message">
+		<h1>Hi, Zyba</h1>
+There’s something important I’ve been wanting to tell you. I think you’re incredibly pretty, and honestly, I’ve developed strong feelings for you. You might not remember, but we were mates during the NCAE. I remember seeing you there, and I think there were a few moments where you noticed me too, even if it was just briefly. I love you not in a way that expects anything from you, but because I genuinely care about you. I kept glancing at you from the back, and I don't think you noticed. I was the one who couldn't stop looking at you. I know this is our last year before graduation, so I wanted to be honest with you. If you're taken, not ready, or not interested, I completely understand. Whatever your decision, I wish you the best of luck with everything, especially as we both move on to new chapters in our lives. It’s okay if we remain strangers, depending on how you feel, and I’ll respect your choice. Stay Blushed<33.
+	</p>
+	</div>
+</div>
